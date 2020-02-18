@@ -1,5 +1,5 @@
 # DSL
-(database, crawling, open data)--> cleansing,data preprocessing--> EDA,visualization --> modeling --> conclusion, report
+(database, crawling, open data)--> cleansing,data preprocessing--> EDA,visualization--> (datamining)--> modeling --> conclusion, report
 
 ## (0) how to use github, google cloud platform, google colab(jupyter notebook)
 
